@@ -17,7 +17,7 @@ const config = {
     },
 
     // The migrations dir
-    migrationsDir: 'migrations',
+    migrationsDir: 'database/migrations',
 
     // The mongodb collection where the applied changes are stored
     changelogCollectionName: 'changelog',
